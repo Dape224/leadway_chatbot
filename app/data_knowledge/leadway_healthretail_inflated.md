@@ -1,0 +1,484 @@
+# StrawBerry
+Nothing beats that amazing feeling when you get more for less. Sign up for a healthier and happier you.
+
+# CranBerry
+Experience quality health care and support when and where you need it with our Cranberry Plan
+
+# BlueBerry
+Let us protect you from unexpected, high medical costs. Pay-less to access high quality and premium health care
+
+# BlackBerry
+Your health is our priority. Subscribe to the Blackberry plan to enjoy flexible health plans with numerous benefits
+
+# RaspBerry
+Designed for people who want premium, world-class health care services; with a broad range of benefits.
+
+# Senior Citizens
+This plan is the best gift you can give yourself or anyone in their golden years. Covers Geriatric care and much more.
+
+# Marcelle Ruth
+Fight cancer, not finances. Plan covers diagnosis, treatment & recovery. Peace of mind, one plan at a time.
+
+# Marcelle Ruth Platinum
+Assured Care. unmatched cancer coverage. Focus on healing, leave the finances to us. Peace of mind included.
+
+# Pricing & Benefits
+No hidden costs, no surprises
+
+### Leadway Health Retail Plans (Strawberry, Cranberry, Blueberry, Blackberry, Raspberry)
+
+- Under the Leadway Health Retail Strawberry plan, the Premium per Individual per Year is ₦104,997.75.
+- Under the Leadway Health Retail Cranberry plan, the Premium per Individual per Year is ₦147,790.50.
+- Under the Leadway Health Retail Blueberry plan, the Premium per Individual per Year is ₦254,826.00.
+- Under the Leadway Health Retail Blackberry plan, the Premium per Individual per Year is ₦585,975.00.
+- Under the Leadway Health Retail Raspberry plan, the Premium per Individual per Year is ₦954,720.00.
+- Under the Leadway Health Retail Strawberry plan, the General Waiting Period is 7 days.
+- Under the Leadway Health Retail Cranberry plan, the General Waiting Period is 7 days.
+- Under the Leadway Health Retail Blueberry plan, the General Waiting Period is 7 days.
+- Under the Leadway Health Retail Blackberry plan, the General Waiting Period is 7 days.
+- Under the Leadway Health Retail Raspberry plan, the General Waiting Period is 7 days.
+- Under the Leadway Health Retail Strawberry plan, the Region of Cover is Nigeria.
+- Under the Leadway Health Retail Cranberry plan, the Region of Cover is Nigeria.
+- Under the Leadway Health Retail Blueberry plan, the Region of Cover is Nigeria & India.
+- Under the Leadway Health Retail Blackberry plan, the Region of Cover is Nigeria & India & Africa.
+- Under the Leadway Health Retail Raspberry plan, the Region of Cover is Nigeria & India & Africa.
+- Under the Leadway Health Retail Strawberry plan, the Category Hospital Accessible is Category D hospitals.
+- Under the Leadway Health Retail Cranberry plan, the Category Hospital Accessible is Category D hospitals.
+- Under the Leadway Health Retail Blueberry plan, the Category Hospital Accessible is Category C + D hospitals.
+- Under the Leadway Health Retail Blackberry plan, the Category Hospital Accessible is Category B + C + D hospitals.
+- Under the Leadway Health Retail Raspberry plan, the Category Hospital Accessible is Category A + B + C + D hospitals.
+- Under the Leadway Health Retail Strawberry plan, Chat with Doctors and Nurses when in need of care during any medical emergency is Covered.
+- Under the Leadway Health Retail Cranberry plan, Chat with Doctors and Nurses when in need of care during any medical emergency is Covered.
+- Under the Leadway Health Retail Blueberry plan, Chat with Doctors and Nurses when in need of care during any medical emergency is Covered.
+- Under the Leadway Health Retail Blackberry plan, Chat with Doctors and Nurses when in need of care during any medical emergency is Covered.
+- Under the Leadway Health Retail Raspberry plan, Chat with Doctors and Nurses when in need of care during any medical emergency is Covered.
+- Under the Leadway Health Retail Strawberry plan, Free chats with Doctors and Nurses when in need of any routine medical information is Covered.
+- Under the Leadway Health Retail Cranberry plan, Free chats with Doctors and Nurses when in need of any routine medical information is Covered.
+- Under the Leadway Health Retail Blueberry plan, Free chats with Doctors and Nurses when in need of any routine medical information is Covered.
+- Under the Leadway Health Retail Blackberry plan, Free chats with Doctors and Nurses when in need of any routine medical information is Covered.
+- Under the Leadway Health Retail Raspberry plan, Free chats with Doctors and Nurses when in need of any routine medical information is Covered.
+- Under the Leadway Health Retail Strawberry plan, GPS-enabled access to hospital directories when hospital information is needed is Covered.
+- Under the Leadway Health Retail Cranberry plan, GPS-enabled access to hospital directories when hospital information is needed is Covered.
+- Under the Leadway Health Retail Blueberry plan, GPS-enabled access to hospital directories when hospital information is needed is Covered.
+- Under the Leadway Health Retail Blackberry plan, GPS-enabled access to hospital directories when hospital information is needed is Covered.
+- Under the Leadway Health Retail Raspberry plan, GPS-enabled access to hospital directories when hospital information is needed is Covered.
+- Under the Leadway Health Retail Strawberry plan, the Out-patient Limit is ₦150,000 per individual per year.
+- Under the Leadway Health Retail Cranberry plan, the Out-patient Limit is ₦250,000 per individual per year.
+- Under the Leadway Health Retail Blueberry plan, the Out-patient Limit is ₦300,000 per individual per year.
+- Under the Leadway Health Retail Blackberry plan, the Out-patient Limit is ₦500,000 per individual per year.
+- Under the Leadway Health Retail Raspberry plan, the Out-patient Limit is ₦500,000 per individual per year.
+- Under the Leadway Health Retail Strawberry plan, Out-patient care, General & Specialist Consultation is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Cranberry plan, Out-patient care, General & Specialist Consultation is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Blueberry plan, Out-patient care, General & Specialist Consultation is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Blackberry plan, Out-patient care, General & Specialist Consultation is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Raspberry plan, Out-patient care, General & Specialist Consultation is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Strawberry plan, X-Rays, Laboratory & Diagnostics Tests (Including Rest ECG) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Cranberry plan, X-Rays, Laboratory & Diagnostics Tests (Including Rest ECG) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Blueberry plan, X-Rays, Laboratory & Diagnostics Tests (Including Rest ECG) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Blackberry plan, X-Rays, Laboratory & Diagnostics Tests (Including Rest ECG) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Raspberry plan, X-Rays, Laboratory & Diagnostics Tests (Including Rest ECG) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Strawberry plan, Primary Eye Care Consultation, Examination, Simple or Primary Infection or conditions & Medications is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Cranberry plan, Primary Eye Care Consultation, Examination, Simple or Primary Infection or conditions & Medications is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Blueberry plan, Primary Eye Care Consultation, Examination, Simple or Primary Infection or conditions & Medications is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Blackberry plan, Primary Eye Care Consultation, Examination, Simple or Primary Infection or conditions & Medications is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Raspberry plan, Primary Eye Care Consultation, Examination, Simple or Primary Infection or conditions & Medications is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Strawberry plan, ENT Services is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Cranberry plan, ENT Services is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Blueberry plan, ENT Services is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Blackberry plan, ENT Services is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Raspberry plan, ENT Services is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Strawberry plan, Prescribed Medicines & Drugs (Non-Chronic) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Cranberry plan, Prescribed Medicines & Drugs (Non-Chronic) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Blueberry plan, Prescribed Medicines & Drugs (Non-Chronic) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Blackberry plan, Prescribed Medicines & Drugs (Non-Chronic) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Raspberry plan, Prescribed Medicines & Drugs (Non-Chronic) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Strawberry plan, Prescribed Medicines & Drugs (Chronic) is covered up to ₦50,000.
+- Under the Leadway Health Retail Cranberry plan, Prescribed Medicines & Drugs (Chronic) is covered up to ₦75,000.
+- Under the Leadway Health Retail Blueberry plan, Prescribed Medicines & Drugs (Chronic) is covered up to ₦100,000.
+- Under the Leadway Health Retail Blackberry plan, Prescribed Medicines & Drugs (Chronic) is covered up to ₦150,000.
+- Under the Leadway Health Retail Raspberry plan, Prescribed Medicines & Drugs (Chronic) is covered up to ₦200,000.
+- Under the Leadway Health Retail Strawberry plan, Advanced & Complex Investigations (including CT Scan, MRI Scan) is covered under Emergency.
+- Under the Leadway Health Retail Cranberry plan, Advanced & Complex Investigations (including CT Scan, MRI Scan) is covered under Emergency.
+- Under the Leadway Health Retail Blueberry plan, Advanced & Complex Investigations (including CT Scan, MRI Scan) is covered under Emergency.
+- Under the Leadway Health Retail Blackberry plan, Advanced & Complex Investigations (including CT Scan, MRI Scan) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Raspberry plan, Advanced & Complex Investigations (including CT Scan, MRI Scan) is Subject to the Out-patient limit.
+- Under the Leadway Health Retail Strawberry plan, the In-patient Limit is ₦350,000.
+- Under the Leadway Health Retail Cranberry plan, the In-patient Limit is ₦500,000.
+- Under the Leadway Health Retail Blueberry plan, the In-patient Limit is ₦750,000.
+- Under the Leadway Health Retail Blackberry plan, the In-patient Limit is ₦2,000,000.
+- Under the Leadway Health Retail Raspberry plan, the In-patient Limit is ₦2,000,000.
+- Under the Leadway Health Retail Strawberry plan, In-Patient services (including feeding) is provided in a General Ward.
+- Under the Leadway Health Retail Cranberry plan, In-Patient services (including feeding) is provided in a Semi Private Ward.
+- Under the Leadway Health Retail Blueberry plan, In-Patient services (including feeding) is provided in a Private Ward.
+- Under the Leadway Health Retail Blackberry plan, In-Patient services (including feeding) is provided in a Private Ward.
+- Under the Leadway Health Retail Raspberry plan, In-Patient services (including feeding) is provided in a Private Ward.
+- Under the Leadway Health Retail Strawberry plan, In-Patient X-Rays, Laboratory & Diagnostic Tests is Subject to the In-patient limit.
+- Under the Leadway Health Retail Cranberry plan, In-Patient X-Rays, Laboratory & Diagnostic Tests is Subject to the In-patient limit.
+- Under the Leadway Health Retail Blueberry plan, In-Patient X-Rays, Laboratory & Diagnostic Tests is Subject to the In-patient limit.
+- Under the Leadway Health Retail Blackberry plan, In-Patient X-Rays, Laboratory & Diagnostic Tests is Subject to the In-patient limit.
+- Under the Leadway Health Retail Raspberry plan, In-Patient X-Rays, Laboratory & Diagnostic Tests is Subject to the In-patient limit.
+- Under the Leadway Health Retail Strawberry plan, In-Patient Prescribed Medicines & Drugs (Non-Chronic) is Subject to the In-patient limit.
+- Under the Leadway Health Retail Cranberry plan, In-Patient Prescribed Medicines & Drugs (Non-Chronic) is Subject to the In-patient limit.
+- Under the Leadway Health Retail Blueberry plan, In-Patient Prescribed Medicines & Drugs (Non-Chronic) is Subject to the In-patient limit.
+- Under the Leadway Health Retail Blackberry plan, In-Patient Prescribed Medicines & Drugs (Non-Chronic) is Subject to the In-patient limit.
+- Under the Leadway Health Retail Raspberry plan, In-Patient Prescribed Medicines & Drugs (Non-Chronic) is Subject to the In-patient limit.
+- Under the Leadway Health Retail Strawberry plan, the In-Patient Prescribed Medicines & Drugs (Non-Chronic) limit is ₦50,000.00.
+- Under the Leadway Health Retail Cranberry plan, the In-Patient Prescribed Medicines & Drugs (Non-Chronic) limit is ₦75,000.00.
+- Under the Leadway Health Retail Blueberry plan, the In-Patient Prescribed Medicines & Drugs (Non-Chronic) limit is ₦100,000.00.
+- Under the Leadway Health Retail Blackberry plan, the In-Patient Prescribed Medicines & Drugs (Non-Chronic) limit is ₦150,000.00.
+- Under the Leadway Health Retail Raspberry plan, the In-Patient Prescribed Medicines & Drugs (Non-Chronic) limit is ₦200,000.00.
+- Under the Leadway Health Retail Strawberry plan, Physiotherapy Sessions (Up to approved limits) is covered up to ₦10,000.
+- Under the Leadway Health Retail Cranberry plan, Physiotherapy Sessions (Up to approved limits) is covered up to ₦20,000.
+- Under the Leadway Health Retail Blueberry plan, Physiotherapy Sessions (Up to approved limits) is covered up to ₦30,000.
+- Under the Leadway Health Retail Blackberry plan, Physiotherapy Sessions (Up to approved limits) is covered up to ₦40,000.
+- Under the Leadway Health Retail Raspberry plan, Physiotherapy Sessions (Up to approved limits) is covered up to ₦40,000.
+- Under the Leadway Health Retail Strawberry plan, Intensive Care Services (Not covered in the first policy year) is covered up to ₦100,000.
+- Under the Leadway Health Retail Cranberry plan, Intensive Care Services (Not covered in the first policy year) is covered up to ₦200,000.
+- Under the Leadway Health Retail Blueberry plan, Intensive Care Services (Not covered in the first policy year) is covered up to ₦300,000.
+- Under the Leadway Health Retail Blackberry plan, Intensive Care Services (Not covered in the first policy year) is covered up to ₦400,000.
+- Under the Leadway Health Retail Raspberry plan, Intensive Care Services (Not covered in the first policy year) is covered up to ₦500,000.
+- Under the Leadway Health Retail Strawberry plan, In-Patient Advanced & Complex Investigations (including CT Scan, MRI Scan) is covered under Emergency.
+- Under the Leadway Health Retail Cranberry plan, In-Patient Advanced & Complex Investigations (including CT Scan, MRI Scan) is covered under Emergency.
+- Under the Leadway Health Retail Blueberry plan, In-Patient Advanced & Complex Investigations (including CT Scan, MRI Scan) is covered under Emergency.
+- Under the Leadway Health Retail Blackberry plan, In-Patient Advanced & Complex Investigations (including CT Scan, MRI Scan) is covered under Emergency.
+- Under the Leadway Health Retail Raspberry plan, In-Patient Advanced & Complex Investigations (including CT Scan, MRI Scan) is covered under Emergency.
+- Under the Leadway Health Retail Strawberry plan, Minor, Intermediate, Major Surgeries & Procedures (Subject to the In-patient Limit and Not covered in the first 3 months) is covered Up to a limit of ₦250,000.
+- Under the Leadway Health Retail Cranberry plan, Minor, Intermediate, Major Surgeries & Procedures (Subject to the In-patient Limit and Not covered in the first 3 months) is covered Up to a limit of ₦300,000.
+- Under the Leadway Health Retail Blueberry plan, Minor, Intermediate, Major Surgeries & Procedures (Subject to the In-patient Limit and Not covered in the first 3 months) is covered Up to a limit of ₦400,000.
+- Under the Leadway Health Retail Blackberry plan, Minor, Intermediate, Major Surgeries & Procedures (Subject to the In-patient Limit and Not covered in the first 3 months) is covered Up to a limit of ₦1,000,000.
+- Under the Leadway Health Retail Raspberry plan, Minor, Intermediate, Major Surgeries & Procedures (Subject to the In-patient Limit and Not covered in the first 3 months) is covered Up to a limit of ₦1,000,000.
+- Under the Leadway Health Retail Strawberry plan, Antenatal Care, Delivery (Vaginal, Caesarean Section, Assisted delivery & Postnatal care) (Not covered in the first policy year) is covered up to ₦200,000.
+- Under the Leadway Health Retail Cranberry plan, Antenatal Care, Delivery (Vaginal, Caesarean Section, Assisted delivery & Postnatal care) (Not covered in the first policy year) is covered up to ₦250,000.
+- Under the Leadway Health Retail Blueberry plan, Antenatal Care, Delivery (Vaginal, Caesarean Section, Assisted delivery & Postnatal care) (Not covered in the first policy year) is covered up to ₦300,000.
+- Under the Leadway Health Retail Blackberry plan, Antenatal Care, Delivery (Vaginal, Caesarean Section, Assisted delivery & Postnatal care) (Not covered in the first policy year) is covered up to ₦800,000.
+- Under the Leadway Health Retail Raspberry plan, Antenatal Care, Delivery (Vaginal, Caesarean Section, Assisted delivery & Postnatal care) (Not covered in the first policy year) is covered up to ₦850,000.
+- Under the Leadway Health Retail Strawberry plan, Primary Dental Care and Secondary Dental Care is Covered up to ₦10,000.
+- Under the Leadway Health Retail Cranberry plan, Primary Dental Care and Secondary Dental Care is Covered up to ₦20,000.
+- Under the Leadway Health Retail Blueberry plan, Primary Dental Care and Secondary Dental Care is Covered up to ₦40,000.
+- Under the Leadway Health Retail Blackberry plan, Primary Dental Care and Secondary Dental Care is Covered up to ₦50,000.
+- Under the Leadway Health Retail Raspberry plan, Primary Dental Care and Secondary Dental Care is Covered up to ₦50,000.
+- Under the Leadway Health Retail Strawberry plan, Eye Testing & Eye Care (Biennial Optical Lenses) Not covered in the first 3 months is covered Up to ₦7,500.
+- Under the Leadway Health Retail Cranberry plan, Eye Testing & Eye Care (Biennial Optical Lenses) Not covered in the first 3 months is covered Up to ₦10,000.
+- Under the Leadway Health Retail Blueberry plan, Eye Testing & Eye Care (Biennial Optical Lenses) Not covered in the first 3 months is covered Up to ₦15,000.
+- Under the Leadway Health Retail Blackberry plan, Eye Testing & Eye Care (Biennial Optical Lenses) Not covered in the first 3 months is covered Up to ₦25,000.
+- Under the Leadway Health Retail Raspberry plan, Eye Testing & Eye Care (Biennial Optical Lenses) Not covered in the first 3 months is covered Up to ₦25,000.
+- Under the Leadway Health Retail Strawberry plan, Treatment of ENT diseases & removal of foreign bodies is Covered.
+- Under the Leadway Health Retail Cranberry plan, Treatment of ENT diseases & removal of foreign bodies is Covered.
+- Under the Leadway Health Retail Blueberry plan, Treatment of ENT diseases & removal of foreign bodies is Covered.
+- Under the Leadway Health Retail Blackberry plan, Treatment of ENT diseases & removal of foreign bodies is Covered.
+- Under the Leadway Health Retail Raspberry plan, Treatment of ENT diseases & removal of foreign bodies is Covered.
+- Under the Leadway Health Retail Strawberry plan, ENT Surgeries is covered As part of surgical limit.
+- Under the Leadway Health Retail Cranberry plan, ENT Surgeries is covered As part of surgical limit.
+- Under the Leadway Health Retail Blueberry plan, ENT Surgeries is covered As part of surgical limit.
+- Under the Leadway Health Retail Blackberry plan, ENT Surgeries is covered As part of surgical limit.
+- Under the Leadway Health Retail Raspberry plan, ENT Surgeries is covered As part of surgical limit.
+- Under the Leadway Health Retail Strawberry plan, Accidents & Emergencies is Covered.
+- Under the Leadway Health Retail Cranberry plan, Accidents & Emergencies is Covered.
+- Under the Leadway Health Retail Blueberry plan, Accidents & Emergencies is Covered.
+- Under the Leadway Health Retail Blackberry plan, Accidents & Emergencies is Covered.
+- Under the Leadway Health Retail Raspberry plan, Accidents & Emergencies is Covered.
+- Under the Leadway Health Retail Strawberry plan, Evacuation (Home/Hospital to Hospital & Road Side to Hospital) is Covered.
+- Under the Leadway Health Retail Cranberry plan, Evacuation (Home/Hospital to Hospital & Road Side to Hospital) is Covered.
+- Under the Leadway Health Retail Blueberry plan, Evacuation (Home/Hospital to Hospital & Road Side to Hospital) is Covered.
+- Under the Leadway Health Retail Blackberry plan, Evacuation (Home/Hospital to Hospital & Road Side to Hospital) is Covered.
+- Under the Leadway Health Retail Raspberry plan, Evacuation (Home/Hospital to Hospital & Road Side to Hospital) is Covered.
+- Under the Leadway Health Retail Strawberry plan, Routine Immunization (NPI) for 0-5yrs DPT, Hepatitis B, HiB (Pentavalent), BCG, Measles, Oral Polio, Vitamin A Supplementation is Covered.
+- Under the Leadway Health Retail Cranberry plan, Routine Immunization (NPI) for 0-5yrs DPT, Hepatitis B, HiB (Pentavalent), BCG, Measles, Oral Polio, Vitamin A Supplementation is Covered.
+- Under the Leadway Health Retail Blueberry plan, Routine Immunization (NPI) for 0-5yrs DPT, Hepatitis B, HiB (Pentavalent), BCG, Measles, Oral Polio, Vitamin A Supplementation is Covered.
+- Under the Leadway Health Retail Blackberry plan, Routine Immunization (NPI) for 0-5yrs DPT, Hepatitis B, HiB (Pentavalent), BCG, Measles, Oral Polio, Vitamin A Supplementation is Covered.
+- Under the Leadway Health Retail Raspberry plan, Routine Immunization (NPI) for 0-5yrs DPT, Hepatitis B, HiB (Pentavalent), BCG, Measles, Oral Polio, Vitamin A Supplementation is Covered.
+- Under the Leadway Health Retail Strawberry plan, Additional Immunization for under 5 (Varicella, Rotarix, Pneumococcal, Meningococcal, Yellowfever, Hepatitis B, HiB, MMR & Typherix) at Designated Centre is Subject to the In-patient limit.
+- Under the Leadway Health Retail Cranberry plan, Additional Immunization for under 5 (Varicella, Rotarix, Pneumococcal, Meningococcal, Yellowfever, Hepatitis B, HiB, MMR & Typherix) at Designated Centre is Subject to the In-patient limit.
+- Under the Leadway Health Retail Blueberry plan, Additional Immunization for under 5 (Varicella, Rotarix, Pneumococcal, Meningococcal, Yellowfever, Hepatitis B, HiB, MMR & Typherix) at Designated Centre is Subject to the In-patient limit.
+- Under the Leadway Health Retail Blackberry plan, Additional Immunization for under 5 (Varicella, Rotarix, Pneumococcal, Meningococcal, Yellowfever, Hepatitis B, HiB, MMR & Typherix) at Designated Centre is Subject to the In-patient limit.
+- Under the Leadway Health Retail Raspberry plan, Additional Immunization for under 5 (Varicella, Rotarix, Pneumococcal, Meningococcal, Yellowfever, Hepatitis B, HiB, MMR & Typherix) at Designated Centre is Subject to the In-patient limit.
+- Under the Leadway Health Retail Strawberry plan, Family Planning Services (Subject to Outpatient limit) covers Pills, Injectibles & Copper IUCDs.
+- Under the Leadway Health Retail Cranberry plan, Family Planning Services (Subject to Outpatient limit) covers Pills, Injectibles & Copper IUCDs.
+- Under the Leadway Health Retail Blueberry plan, Family Planning Services (Subject to Outpatient limit) covers Pills, Injectibles & Copper IUCDs, Tubal ligation (during CS) & Vasectomy.
+- Under the Leadway Health Retail Blackberry plan, Family Planning Services (Subject to Outpatient limit) covers Pills, Injectibles & Copper IUCDs, Tubal ligation (during CS) & Vasectomy.
+- Under the Leadway Health Retail Raspberry plan, Family Planning Services (Subject to Outpatient limit) covers Pills, Injectibles & Copper IUCDs, Tubal ligation (during CS) & Vasectomy.
+- Under the Leadway Health Retail Strawberry plan, Fertility Services (Investigation only) Subject to the Out-patient Limit and Not covered in the first policy year covers Counseling, SFA, USS (covered up to N20,000).
+- Under the Leadway Health Retail Cranberry plan, Fertility Services (Investigation only) Subject to the Out-patient Limit and Not covered in the first policy year covers Counseling, SFA, USS, HSG (covered up to N25,000).
+- Under the Leadway Health Retail Blueberry plan, Fertility Services (Investigation only) Subject to the Out-patient Limit and Not covered in the first policy year covers Counseling, SFA, USS, HSG, Hormonal Assay (covered up to N50,000).
+- Under the Leadway Health Retail Blackberry plan, Fertility Services (Investigation only) Subject to the Out-patient Limit and Not covered in the first policy year covers Counseling, SFA, USS, HSG, Hormonal Assay, Hysteroscopy (up to N100,000).
+- Under the Leadway Health Retail Raspberry plan, Fertility Services (Investigation only) Subject to the Out-patient Limit and Not covered in the first policy year covers Counseling, SFA, USS, HSG, Hormonal Assay, Hysteroscopy (up to N100,000).
+- Under the Leadway Health Retail Strawberry plan, Health Screening at Designated Centres (subject to Outpatient limit) covers Age 22+/All gender: physical, BP, HIV, PCV (once every year).
+- Under the Leadway Health Retail Strawberry plan, Health Screening at Designated Centres (subject to Outpatient limit) covers Age 40+/All gender: Blood sugar & Urinalysis (once every year).
+- Under the Leadway Health Retail Cranberry plan, Health Screening at Designated Centres (subject to Outpatient limit) covers Age 22+/All gender: Physical, BP, HIV, Cholesterol, Blood sugar, PCV, and Urinalysis (once every year).
+- Under the Leadway Health Retail Blueberry plan, Health Screening at Designated Centres (subject to Outpatient limit) covers Age 22+/All gender: physical, BP, HIV, Cholesterol, Blood sugar, PCV & Urinalysis (once every year).
+- Under the Leadway Health Retail Blueberry plan, Health Screening at Designated Centres (subject to Outpatient limit) covers Age 40+ Males: PSA every 3 years, and Age 40+ Females: Mammogram every 3 years.
+- Under the Leadway Health Retail Blackberry plan, Health Screening at Designated Centres (subject to Outpatient limit) covers Age 22+/All gender: physical, BP, HIV, Cholesterol, Blood sugar, PCV, Urinalysis, LFT, E/u/Cr & ECG (once every year).
+- Under the Leadway Health Retail Blackberry plan, Health Screening at Designated Centres (subject to Outpatient limit) covers Age 30+ Females: Pap Smear & physical breasts examination (every 3 years), Age 40+ Males: PSA every 3 years, and Age 40+ Females: Mammogram every 3 years.
+- Under the Leadway Health Retail Raspberry plan, Health Screening at Designated Centres (subject to Outpatient limit) covers Age 22+/All gender: physical, BP, HIV, Cholesterol, Blood sugar, PCV, Urinalysis, LFT, E/u/Cr & ECG (once every year).
+- Under the Leadway Health Retail Raspberry plan, Health Screening at Designated Centres (subject to Outpatient limit) covers Age 30+ Females: Pap Smear & physical breasts examination (every 3 years), Age 40+ Males: PSA every 3 years, and Age 40+ Females: Mammogram every 3 years.
+- Under the Leadway Health Retail Strawberry plan, HIV/AIDS- to the extent of Diagnosis + Treatment at free specialist centres is Covered.
+- Under the Leadway Health Retail Cranberry plan, HIV/AIDS- to the extent of Diagnosis + Treatment at free specialist centres is Covered.
+- Under the Leadway Health Retail Blueberry plan, HIV/AIDS- to the extent of Diagnosis + Treatment at free specialist centres is Covered.
+- Under the Leadway Health Retail Blackberry plan, HIV/AIDS- to the extent of Diagnosis + Treatment at free specialist centres is Covered.
+- Under the Leadway Health Retail Raspberry plan, HIV/AIDS- to the extent of Diagnosis + Treatment at free specialist centres is Covered.
+- Under the Leadway Health Retail Strawberry plan, Outpatient Psychiatry cover up to 8 weeks (Subject to the Out-patient Limit and Not covered in the first policy year) is Covered.
+- Under the Leadway Health Retail Cranberry plan, Outpatient Psychiatry cover up to 8 weeks (Subject to the Out-patient Limit and Not covered in the first policy year) is Covered.
+- Under the Leadway Health Retail Blueberry plan, Outpatient Psychiatry cover up to 8 weeks (Subject to the Out-patient Limit and Not covered in the first policy year) is Covered.
+- Under the Leadway Health Retail Blackberry plan, Outpatient Psychiatry cover up to 8 weeks (Subject to the Out-patient Limit and Not covered in the first policy year) is Covered.
+- Under the Leadway Health Retail Raspberry plan, Outpatient Psychiatry cover up to 8 weeks (Subject to the Out-patient Limit and Not covered in the first policy year) is Covered.
+- Under the Leadway Health Retail Strawberry plan, Leadway Enrollee App is Covered.
+- Under the Leadway Health Retail Cranberry plan, Leadway Enrollee App is Covered.
+- Under the Leadway Health Retail Blueberry plan, Leadway Enrollee App is Covered.
+- Under the Leadway Health Retail Blackberry plan, Leadway Enrollee App is Covered.
+- Under the Leadway Health Retail Raspberry plan, Leadway Enrollee App is Covered.
+
+### Leadway Health Senior Citizens Plans (Senior Cranberry, Senior Blueberry, Senior Blackberry, Senior Raspberry)
+
+- Under the Leadway Health Senior Cranberry plan, the Premium for Age 55-69 is ₦511,647.15 per year.
+- Under the Leadway Health Senior Blueberry plan, the Premium for Age 55-69 is ₦775,432.15 per year.
+- Under the Leadway Health Senior Blackberry plan, the Premium for Age 55-69 is ₦1,196,027.15 per year.
+- Under the Leadway Health Senior Raspberry plan, the Premium for Age 55-69 is ₦1,476,922.15 per year.
+- Under the Leadway Health Senior Cranberry plan, the Premium for Age 70-79 is ₦543,394.22 per year.
+- Under the Leadway Health Senior Blueberry plan, the Premium for Age 70-79 is ₦839,246.97 per year.
+- Under the Leadway Health Senior Blackberry plan, the Premium for Age 70-79 is ₦1,300,431.22 per year.
+- Under the Leadway Health Senior Raspberry plan, the Premium for Age 70-79 is ₦1,608,460.47 per year.
+- Under the Leadway Health Senior Cranberry plan, the General Waiting Period is 7 Days.
+- Under the Leadway Health Senior Blueberry plan, the General Waiting Period is 7 Days.
+- Under the Leadway Health Senior Blackberry plan, the General Waiting Period is 7 Days.
+- Under the Leadway Health Senior Raspberry plan, the General Waiting Period is 7 Days.
+- Under the Leadway Health Senior Cranberry plan, the Region of Cover is Nigeria.
+- Under the Leadway Health Senior Blueberry plan, the Region of Cover is Nigeria.
+- Under the Leadway Health Senior Blackberry plan, the Region of Cover is Nigeria.
+- Under the Leadway Health Senior Raspberry plan, the Region of Cover is Nigeria.
+- Under the Leadway Health Senior Cranberry plan, the Hospital Network is Category D hospitals.
+- Under the Leadway Health Senior Blueberry plan, the Hospital Network is Category D + C hospitals.
+- Under the Leadway Health Senior Blackberry plan, the Hospital Network is Category D + C hospitals.
+- Under the Leadway Health Senior Raspberry plan, the Hospital Network is Category D + C + B hospitals.
+- Under the Leadway Health Senior Cranberry plan, the In-patient Limit is ₦500,000.
+- Under the Leadway Health Senior Blueberry plan, the In-patient Limit is ₦650,000.
+- Under the Leadway Health Senior Blackberry plan, the In-patient Limit is ₦1,500,000.
+- Under the Leadway Health Senior Raspberry plan, the In-patient Limit is ₦2,000,000.
+- Under the Leadway Health Senior Cranberry plan, the Out-patient Limit is ₦250,000.
+- Under the Leadway Health Senior Blueberry plan, the Out-patient Limit is ₦350,000.
+- Under the Leadway Health Senior Blackberry plan, the Out-patient Limit is ₦500,000.
+- Under the Leadway Health Senior Raspberry plan, the Out-patient Limit is ₦1,000,000.
+- Under the Leadway Health Senior Cranberry plan, General Consultations are Unlimited.
+- Under the Leadway Health Senior Blueberry plan, General Consultations are Unlimited.
+- Under the Leadway Health Senior Blackberry plan, General Consultations are Unlimited.
+- Under the Leadway Health Senior Raspberry plan, General Consultations are Unlimited.
+- Under the Leadway Health Senior Cranberry plan, Specialist Consultations (Internal Medicine Generalist only) is limited to a Max of 3 per annum.
+- Under the Leadway Health Senior Blueberry plan, Specialist Consultations (Internal Medicine Generalist only) is limited to a Max of 5 per annum.
+- Under the Leadway Health Senior Blackberry plan, Specialist Consultations (Internal Medicine Generalist only) is limited to a Max of 7 per annum.
+- Under the Leadway Health Senior Raspberry plan, Specialist Consultations (Internal Medicine Generalist only) is limited to a Max of 10 per annum.
+- Under the Leadway Health Senior Cranberry plan, Medication is Subject to the outpatient limit.
+- Under the Leadway Health Senior Blueberry plan, Medication is Subject to the outpatient limit.
+- Under the Leadway Health Senior Blackberry plan, Medication is Subject to the outpatient limit.
+- Under the Leadway Health Senior Raspberry plan, Medication is Subject to the outpatient limit.
+- Under the Leadway Health Senior Cranberry plan, Telemedicine Consultations are Unlimited.
+- Under the Leadway Health Senior Blueberry plan, Telemedicine Consultations are Unlimited.
+- Under the Leadway Health Senior Blackberry plan, Telemedicine Consultations are Unlimited.
+- Under the Leadway Health Senior Raspberry plan, Telemedicine Consultations are Unlimited.
+- Under the Leadway Health Senior Cranberry plan, Basic Laboratory services based on the clinician (FBC, PCV, HB, WBC, MP, Widal, Urinalysis, FBS, Stool Occult) is Subject to the outpatient limit.
+- Under the Leadway Health Senior Blueberry plan, Basic Laboratory services based on the clinician (FBC, PCV, HB, WBC, MP, Widal, Urinalysis, FBS, Stool Occult) is Subject to the outpatient limit.
+- Under the Leadway Health Senior Blackberry plan, Basic Laboratory services based on the clinician (FBC, PCV, HB, WBC, MP, Widal, Urinalysis, FBS, Stool Occult) is Subject to the outpatient limit.
+- Under the Leadway Health Senior Raspberry plan, Basic Laboratory services based on the clinician (FBC, PCV, HB, WBC, MP, Widal, Urinalysis, FBS, Stool Occult) is Subject to the outpatient limit.
+- Under the Leadway Health Senior Cranberry plan, Treatment for common acute illnesses including Malaria and other uncomplicated febrile illnesses, Diarrhoeal Diseases, Acute Respiratory Tract Infections, Uncomplicated pneumonia, simple anaemia not requiring blood transfusion, simple skin diseases, worm infestation, minor musculoskeletal ailments is Covered.
+- Under the Leadway Health Senior Blueberry plan, Treatment for common acute illnesses including Malaria and other uncomplicated febrile illnesses, Diarrhoeal Diseases, Acute Respiratory Tract Infections, Uncomplicated pneumonia, simple anaemia not requiring blood transfusion, simple skin diseases, worm infestation, minor musculoskeletal ailments is Covered.
+- Under the Leadway Health Senior Blackberry plan, Treatment for common acute illnesses including Malaria and other uncomplicated febrile illnesses, Diarrhoeal Diseases, Acute Respiratory Tract Infections, Uncomplicated pneumonia, simple anaemia not requiring blood transfusion, simple skin diseases, worm infestation, minor musculoskeletal ailments is Covered.
+- Under the Leadway Health Senior Raspberry plan, Treatment for common acute illnesses including Malaria and other uncomplicated febrile illnesses, Diarrhoeal Diseases, Acute Respiratory Tract Infections, Uncomplicated pneumonia, simple anaemia not requiring blood transfusion, simple skin diseases, worm infestation, minor musculoskeletal ailments is Covered.
+- Under the Leadway Health Senior Cranberry plan, Chronic Disease Management (providing cover for the outpatient treatment of arthritis, asthma, hypertension and diabetes mellitus and osteoarthritis only) is Subject to the outpatient limit.
+- Under the Leadway Health Senior Blueberry plan, Chronic Disease Management (providing cover for the outpatient treatment of arthritis, asthma, hypertension and diabetes mellitus and osteoarthritis only) is Subject to the outpatient limit.
+- Under the Leadway Health Senior Blackberry plan, Chronic Disease Management (providing cover for the outpatient treatment of arthritis, asthma, hypertension and diabetes mellitus and osteoarthritis only) is Subject to the outpatient limit.
+- Under the Leadway Health Senior Raspberry plan, Chronic Disease Management (providing cover for the outpatient treatment of arthritis, asthma, hypertension and diabetes mellitus and osteoarthritis only) is Subject to the outpatient limit.
+- Under the Leadway Health Senior Cranberry plan, Chronic Medicine Refill (Drugs to be supplied by the Pharmacy Benefit Management only) is covered up to ₦400,000 per annum.
+- Under the Leadway Health Senior Blueberry plan, Chronic Medicine Refill (Drugs to be supplied by the Pharmacy Benefit Management only) is covered up to ₦500,000 per annum.
+- Under the Leadway Health Senior Blackberry plan, Chronic Medicine Refill (Drugs to be supplied by the Pharmacy Benefit Management only) is covered up to ₦750,000 per annum.
+- Under the Leadway Health Senior Raspberry plan, Chronic Medicine Refill (Drugs to be supplied by the Pharmacy Benefit Management only) is covered up to ₦1,000,000 per annum.
+- Under the Leadway Health Senior Cranberry plan, Ear, Nose and Throat Care is Covered.
+- Under the Leadway Health Senior Blueberry plan, Ear, Nose and Throat Care is Covered.
+- Under the Leadway Health Senior Blackberry plan, Ear, Nose and Throat Care is Covered.
+- Under the Leadway Health Senior Raspberry plan, Ear, Nose and Throat Care is Covered.
+- Under the Leadway Health Senior Cranberry plan, Optical Care (Treatment of minor eye ailments including conjunctivitis, parasitic and allergic ailment) is Covered.
+- Under the Leadway Health Senior Blueberry plan, Optical Care (Treatment of minor eye ailments including conjunctivitis, parasitic and allergic ailment) is Covered.
+- Under the Leadway Health Senior Blackberry plan, Optical Care (Treatment of minor eye ailments including conjunctivitis, parasitic and allergic ailment) is Covered.
+- Under the Leadway Health Senior Raspberry plan, Optical Care (Treatment of minor eye ailments including conjunctivitis, parasitic and allergic ailment) is Covered.
+- Under the Leadway Health Senior Cranberry plan, Optical Care (Frames & lenses) every 2 years is covered up to ₦10,000.
+- Under the Leadway Health Senior Blueberry plan, Optical Care (Frames & lenses) every 2 years is covered up to ₦25,000.
+- Under the Leadway Health Senior Blackberry plan, Optical Care (Frames & lenses) every 2 years is covered up to ₦35,000.
+- Under the Leadway Health Senior Raspberry plan, Optical Care (Frames & lenses) every 2 years is covered up to ₦45,000.
+- Under the Leadway Health Senior Cranberry plan, Dental Care is covered up to ₦20,000.
+- Under the Leadway Health Senior Blueberry plan, Dental Care is covered up to ₦30,000.
+- Under the Leadway Health Senior Blackberry plan, Dental Care is covered up to ₦40,000.
+- Under the Leadway Health Senior Raspberry plan, Dental Care is covered up to ₦50,000.
+- Under the Leadway Health Senior Cranberry plan, Physiotherapy is Not Covered.
+- Under the Leadway Health Senior Blueberry plan, Physiotherapy is covered up to ₦10,000.
+- Under the Leadway Health Senior Blackberry plan, Physiotherapy is covered up to ₦30,000.
+- Under the Leadway Health Senior Raspberry plan, Physiotherapy is covered up to ₦50,000.
+- Under the Leadway Health Senior Cranberry plan, Accommodation (excluding feeding) is covered in a General ward up to 14 cumulative days per annum.
+- Under the Leadway Health Senior Blueberry plan, Accommodation (excluding feeding) is covered in a General ward up to 14 cumulative days per annum.
+- Under the Leadway Health Senior Blackberry plan, Accommodation (excluding feeding) is covered in a Semi-Private Ward.
+- Under the Leadway Health Senior Raspberry plan, Accommodation (excluding feeding) is covered in a Private Ward.
+- Under the Leadway Health Senior Cranberry plan, Accidents & Emergencies: Resuscitative or lifesaving initial treatment up to a maximum of the first 24 hours following an incident is covered up to ₦50,000 per annum.
+- Under the Leadway Health Senior Blueberry plan, Accidents & Emergencies: Resuscitative or lifesaving initial treatment up to a maximum of the first 24 hours following an incident is covered up to ₦75,000 per annum.
+- Under the Leadway Health Senior Blackberry plan, Accidents & Emergencies: Resuscitative or lifesaving initial treatment up to a maximum of the first 24 hours following an incident is covered up to ₦100,000 per annum.
+- Under the Leadway Health Senior Raspberry plan, Accidents & Emergencies: Resuscitative or lifesaving initial treatment up to a maximum of the first 24 hours following an incident is covered up to ₦150,000 per annum.
+- Under the Leadway Health Senior Cranberry plan, Intensive Care Services is covered up to ₦100,000.
+- Under the Leadway Health Senior Blueberry plan, Intensive Care Services is covered up to ₦200,000.
+- Under the Leadway Health Senior Blackberry plan, Intensive Care Services is covered up to ₦300,000.
+- Under the Leadway Health Senior Raspberry plan, Intensive Care Services is covered up to ₦500,000.
+- Under the Leadway Health Senior Cranberry plan, the Surgeries limit (Not covered in the first 6 months) is ₦100,000.
+- Under the Leadway Health Senior Blueberry plan, the Surgeries limit (Not covered in the first 6 months) is ₦150,000.
+- Under the Leadway Health Senior Blackberry plan, the Surgeries limit (Not covered in the first 6 months) is ₦200,000.
+- Under the Leadway Health Senior Raspberry plan, the Surgeries limit (Not covered in the first 6 months) is ₦300,000.
+- Under the Leadway Health Senior Cranberry plan, Advanced & Complex Investigations (Not covered in the first 3 months) is covered up to ₦50,000 per annum.
+- Under the Leadway Health Senior Blueberry plan, Advanced & Complex Investigations (Not covered in the first 3 months) is covered up to ₦75,000 per annum.
+- Under the Leadway Health Senior Blackberry plan, Advanced & Complex Investigations (Not covered in the first 3 months) is covered up to ₦100,000 per annum.
+- Under the Leadway Health Senior Raspberry plan, Advanced & Complex Investigations (Not covered in the first 3 months) is covered up to ₦150,000 per annum.
+- Under the Leadway Health Senior Cranberry plan, Ambulance: Hospital to Hospital is Covered.
+- Under the Leadway Health Senior Blueberry plan, Ambulance: Hospital to Hospital is Covered.
+- Under the Leadway Health Senior Blackberry plan, Ambulance: Hospital to Hospital is Covered.
+- Under the Leadway Health Senior Raspberry plan, Ambulance: Hospital to Hospital is Covered.
+- Under the Leadway Health Senior Cranberry plan, Basic X-rays (Chest & Limbs only) is limited to a Max of 2 per year.
+- Under the Leadway Health Senior Blueberry plan, Basic X-rays (Chest & Limbs only) is limited to a Max of 3 per year.
+- Under the Leadway Health Senior Blackberry plan, Basic X-rays (Chest & Limbs only) is limited to a Max of 4 per year.
+- Under the Leadway Health Senior Raspberry plan, Basic X-rays (Chest & Limbs only) is limited to a Max of 6 per year.
+- Under the Leadway Health Senior Cranberry plan, Major Disease: Oncology Tests, Drugs + Chemotherapy & Radiotherapy, Stroke etc. (Only covered for enrollees newly diagnosed on the scheme after 12 months of enrolment) is Not covered.
+- Under the Leadway Health Senior Blueberry plan, Major Disease: Oncology Tests, Drugs + Chemotherapy & Radiotherapy, Stroke etc. (Only covered for enrollees newly diagnosed on the scheme after 12 months of enrolment) is Covered up to 50% of the in-patient limit.
+- Under the Leadway Health Senior Blackberry plan, Major Disease: Oncology Tests, Drugs + Chemotherapy & Radiotherapy, Stroke etc. (Only covered for enrollees newly diagnosed on the scheme after 12 months of enrolment) is Covered up to 50% of the in-patient limit.
+- Under the Leadway Health Senior Raspberry plan, Major Disease: Oncology Tests, Drugs + Chemotherapy & Radiotherapy, Stroke etc. (Only covered for enrollees newly diagnosed on the scheme after 12 months of enrolment) is Covered up to 50% of the in-patient limit.
+- Under the Leadway Health Senior Cranberry plan, Adult Immunizations is Not covered.
+- Under the Leadway Health Senior Blueberry plan, Adult Immunizations is Not covered.
+- Under the Leadway Health Senior Blackberry plan, Adult Immunizations covers Yellow fever, meningitis, and Hepatitis B.
+- Under the Leadway Health Senior Raspberry plan, Adult Immunizations covers Yellow fever, meningitis, and Hepatitis B.
+- Under the Leadway Health Senior Cranberry plan, Health Checks (once a year) covers BP, FBS, BMI, Total Cholesterol, and Urinalysis.
+- Under the Leadway Health Senior Blueberry plan, Health Checks (once a year) covers BP, FBS, BMI, Total Cholesterol, and Urinalysis.
+- Under the Leadway Health Senior Blackberry plan, Health Checks (once a year) covers BP, FBS, BMI, Cholesterol, Urinalysis, PSA, and Pap smear.
+- Under the Leadway Health Senior Raspberry plan, Health Checks (once a year) covers BP, FBS, BMI, Cholesterol, Urinalysis, PSA, Pap smear, and Mammogram (once every 3 years).
+- Under the Leadway Health Senior Cranberry plan, Kidney Dialysis is limited to 2 sessions.
+- Under the Leadway Health Senior Blueberry plan, Kidney Dialysis is limited to 3 sessions.
+- Under the Leadway Health Senior Blackberry plan, Kidney Dialysis is limited to 5 sessions.
+- Under the Leadway Health Senior Raspberry plan, Kidney Dialysis is limited to 7 sessions.
+
+### Leadway Health Marcelle Ruth Plans (MRCare, MRCare Platinum)
+
+- Under the Leadway Health MRCare plan, the Individual Premium is ₦1,559,000.
+- Under the Leadway Health MRCare Platinum plan, the Individual Premium is ₦3,799,000.
+- Under the Leadway Health MRCare plan, the Territory of cover is Local In-country + Africa + India + UAE.
+- Under the Leadway Health MRCare Platinum plan, the Territory of cover is Local In-country + Africa + India + UAE + Europe.
+- Under the Leadway Health MRCare plan, the Provider Network is Category A+B+C+D.
+- Under the Leadway Health MRCare Platinum plan, the Provider Network is Category A`+A+B+C+D.
+- Under the Leadway Health MRCare plan, the Overall Limit is Unlimited.
+- Under the Leadway Health MRCare Platinum plan, the Overall Limit is Unlimited.
+- Under the Leadway Health MRCare plan, the Out-Patient Limit is Unlimited.
+- Under the Leadway Health MRCare Platinum plan, the Out-Patient Limit is Unlimited.
+- Under the Leadway Health MRCare plan, GP consultations within network is Covered.
+- Under the Leadway Health MRCare Platinum plan, GP consultations within network is Covered.
+- Under the Leadway Health MRCare plan, Specialist consultations within network is Covered.
+- Under the Leadway Health MRCare Platinum plan, Specialist consultations within network is Covered.
+- Under the Leadway Health MRCare plan, Telemedicine consultations is Covered.
+- Under the Leadway Health MRCare Platinum plan, Telemedicine consultations is Covered.
+- Under the Leadway Health MRCare plan, Prescribed Acute Medicines is Covered.
+- Under the Leadway Health MRCare Platinum plan, Prescribed Acute Medicines is Covered.
+- Under the Leadway Health MRCare plan, Prescribed Chronic Medicines is Covered up to ₦500,000.
+- Under the Leadway Health MRCare Platinum plan, Prescribed Chronic Medicines is Covered up to ₦1,200,000.
+- Under the Leadway Health MRCare plan, Outpatient Psychiatry Care is Covered for 12 weeks per annum.
+- Under the Leadway Health MRCare Platinum plan, Outpatient Psychiatry Care is Covered.
+- Under the Leadway Health MRCare plan, Chat with Doctors and Nurses when in need of care during any medical emergency is Covered.
+- Under the Leadway Health MRCare Platinum plan, Chat with Doctors and Nurses when in need of care during any medical emergency is Covered.
+- Under the Leadway Health MRCare plan, Free chats with Doctors and Nurses when in need of any routine medical information is Covered.
+- Under the Leadway Health MRCare Platinum plan, Free chats with Doctors and Nurses when in need of any routine medical information is Covered.
+- Under the Leadway Health MRCare plan, GPS-enabled access to hospital directories when hospital information is needed is Covered.
+- Under the Leadway Health MRCare Platinum plan, GPS-enabled access to hospital directories when hospital information is needed is Covered.
+- Under the Leadway Health MRCare plan, Admission is covered up to 30 days per annum in a Private Ward.
+- Under the Leadway Health MRCare Platinum plan, Admission is covered up to 90 days per annum in a Private Ward.
+- Under the Leadway Health MRCare plan, Accommodation for parent whose infant is on admission is covered up to 7 days.
+- Under the Leadway Health MRCare Platinum plan, Accommodation for parent whose infant is on admission is covered up to 14 days.
+- Under the Leadway Health MRCare plan, Ambulance Services is Covered.
+- Under the Leadway Health MRCare Platinum plan, Ambulance Services is Covered.
+- Under the Leadway Health MRCare plan, Intensive Care ward within network is Covered up to ₦3,000,000.
+- Under the Leadway Health MRCare Platinum plan, Intensive Care ward within network is Covered up to ₦5,000,000.
+- Under the Leadway Health MRCare plan, Psychiatric hospitalization is covered up to 10 days per annum.
+- Under the Leadway Health MRCare Platinum plan, Psychiatric hospitalization is covered up to 21 days per annum.
+- Under the Leadway Health MRCare plan, the Cancer limit (Subject to results of preliminary screening at the inception of the policy) is ₦10,000,000 (Lifetime).
+- Under the Leadway Health MRCare Platinum plan, the Cancer limit (Subject to results of preliminary screening at the inception of the policy) is ₦15,000,000 (Lifetime).
+- Under the Leadway Health MRCare plan, Other Major disease (i.e Kidney disease, auto-immune, sickle cell anaemia; Not covered in the first policy year) is Covered up to ₦1,000,000 per annum.
+- Under the Leadway Health MRCare Platinum plan, Other Major disease (i.e Kidney disease, auto-immune, sickle cell anaemia; Not covered in the first policy year) is Covered up to ₦2,000,000 per annum.
+- Under the Leadway Health MRCare plan, Routine Health Checks (Must be done at the inception of the plan at designated Centers, subject to pre-authorisation) covers: Age 22+/All Gender: Physical, BP, HIV, Cholesterol, Blood sugar, PCV, Urinalysis, LFT, E/u/Cr and ECG once every year; Age 30+ Females: Pap smear and physical breast examination every 3 years; Age 40+ Males: PSA every 3 years.
+- Under the Leadway Health MRCare Platinum plan, Routine Health Checks (Must be done at the inception of the plan at designated Centers, subject to pre-authorisation) covers: Age 22+/All Gender: Physical, BP, HIV, Cholesterol, Blood sugar, PCV, Urinalysis, LFT, E/u/Cr and ECG once every year; Age 30+ Females: Pap smear and physical breast examination every 3 years; Age 40+ Males: PSA every 3 years.
+- Under the Leadway Health MRCare plan, Cancer markers screening (Female) covers CEA, CA125, CA199, FIT, Mammography, and HPV by PCR.
+- Under the Leadway Health MRCare Platinum plan, Cancer markers screening (Female) covers CEA, CA125, CA199, FIT, Mammography, and HPV by PCR.
+- Under the Leadway Health MRCare plan, Cancer markers screening (Male) covers CA199, PSA, and FIT.
+- Under the Leadway Health MRCare Platinum plan, Cancer markers screening (Male) covers CA199, PSA, and FIT.
+- Under the Leadway Health MRCare plan, ANC, Maternity and Postcare within the Leadway Hospital Network is Covered.
+- Under the Leadway Health MRCare Platinum plan, ANC, Maternity and Postcare within the Leadway Hospital Network is Covered.
+- Under the Leadway Health MRCare plan, Out of Network Maternity is covered up to ₦175,000 for ANC + Delivery, and up to ₦350,000 for CS Delivery.
+- Under the Leadway Health MRCare Platinum plan, Out of Network Maternity is covered up to ₦350,000 for ANC + Delivery, and up to ₦500,000 for CS Delivery.
+- Under the Leadway Health MRCare plan, Maternity complications are Covered.
+- Under the Leadway Health MRCare Platinum plan, Maternity complications are Covered.
+- Under the Leadway Health MRCare plan, Neonatal care (including incubator) is covered up to 28 days.
+- Under the Leadway Health MRCare Platinum plan, Neonatal care (including incubator) is covered up to 28 days.
+- Under the Leadway Health MRCare plan, Reimbursement for delivery abroad is Covered up to ₦500,001.
+- Under the Leadway Health MRCare Platinum plan, Reimbursement for delivery abroad is Covered up to ₦1,000,001.
+- Under the Leadway Health MRCare plan, Family Planning covers Pills, Injectibles, Copper IUCD, Vasectomy, Tubal Ligation (only during CS), and Norplant.
+- Under the Leadway Health MRCare Platinum plan, Family Planning covers Pills, Injectibles, Copper IUCD, Vasectomy, Tubal Ligation (only during CS), and Norplant.
+- Under the Leadway Health MRCare plan, Male Circumcision and Female Ear Piercing is Covered.
+- Under the Leadway Health MRCare Platinum plan, Male Circumcision and Female Ear Piercing is Covered.
+- Under the Leadway Health MRCare plan, Congenital anomaly treatment (only on children born within the plan) is Covered up to ₦1,000,000 per annum.
+- Under the Leadway Health MRCare Platinum plan, Congenital anomaly treatment (only on children born within the plan) is Covered up to ₦2,000,000 per annum.
+- Under the Leadway Health MRCare plan, NPI Immunization for 0-5 year: BCG, Measles, DPT, Oral polio, Vitamin A supplementation, Pentavalent vaccine, Yellow Fever, Hepatitis B, HIB is Covered.
+- Under the Leadway Health MRCare Platinum plan, NPI Immunization for 0-5 year: BCG, Measles, DPT, Oral polio, Vitamin A supplementation, Pentavalent vaccine, Yellow Fever, Hepatitis B, HIB is Covered.
+- Under the Leadway Health MRCare plan, Additional Immunizations (For ages 0-5 years): Chicken Pox, MMR, Pneumococcal, Meningitis, Typhoid, Rotavirus is Covered.
+- Under the Leadway Health MRCare Platinum plan, Additional Immunizations (For ages 0-5 years): Chicken Pox, MMR, Pneumococcal, Meningitis, Typhoid, Rotavirus is Covered.
+- Under the Leadway Health MRCare plan, Additional Immunization (above 6 - 17 years): Yellow Fever, Meningitis, Hepatitis B is Covered.
+- Under the Leadway Health MRCare Platinum plan, Additional Immunization (above 6 - 17 years): Yellow Fever, Meningitis, Hepatitis B is Covered.
+- Under the Leadway Health MRCare plan, Baby wellness programme is Covered.
+- Under the Leadway Health MRCare Platinum plan, Baby wellness programme is Covered.
+- Under the Leadway Health MRCare plan, Minor, Intermediate, Major Surgeries & Tertiary Surgeries is Covered up to ₦2,000,000.
+- Under the Leadway Health MRCare Platinum plan, Minor, Intermediate, Major Surgeries & Tertiary Surgeries is Covered up to ₦3,000,000.
+- Under the Leadway Health MRCare plan, Anaesthesia, Surgeon, Admission, Drugs, Surgical supplies/Consumables, administration of blood or blood products, etc is Covered up to ₦2,000,000.
+- Under the Leadway Health MRCare Platinum plan, Anaesthesia, Surgeon, Admission, Drugs, Surgical supplies/Consumables, administration of blood or blood products, etc is Covered up to ₦3,000,000.
+- Under the Leadway Health MRCare plan, Primary eye care (consultation, examination, simple/primary infection, medications, eye tests) is Unlimited.
+- Under the Leadway Health MRCare Platinum plan, Primary eye care (consultation, examination, simple/primary infection, medications, eye tests) is Unlimited.
+- Under the Leadway Health MRCare plan, Lenses & Frames (Once every two years) is covered up to a Limit of ₦45,000.
+- Under the Leadway Health MRCare Platinum plan, Lenses & Frames (Once every two years) is covered up to a Limit of ₦100,000.
+- Under the Leadway Health MRCare plan, Surgeries subject to pre-authorization and overall limits is Subject to the Surgical limit.
+- Under the Leadway Health MRCare Platinum plan, Surgeries subject to pre-authorization and overall limits is Subject to the Surgical limit.
+- Under the Leadway Health MRCare plan, Treatment of ENT diseases is Covered.
+- Under the Leadway Health MRCare Platinum plan, Treatment of ENT diseases is Covered.
+- Under the Leadway Health MRCare plan, ENT Surgeries subject to pre-authorization is Subject to the Surgical limit.
+- Under the Leadway Health MRCare Platinum plan, ENT Surgeries subject to pre-authorization is Subject to the Surgical limit.
+- Under the Leadway Health MRCare plan, Basic Dentistry (Full mouth assessment, intra oral radiographs, scale & polish, extractions, emergency root canal treatment, fillings, pain and sepsis treatment) is Covered up to ₦150,000 per annum.
+- Under the Leadway Health MRCare Platinum plan, Basic Dentistry (Full mouth assessment, intra oral radiographs, scale & polish, extractions, emergency root canal treatment, fillings, pain and sepsis treatment) is Covered up to ₦300,000 per annum.
+- Under the Leadway Health MRCare plan, Specialized Dentistry (Bridgework or crowns, surgical extraction, orthodontic treatment for ages less than 18 years, and dentures subject to pre-authorization) is Covered up to ₦150,000 per annum.
+- Under the Leadway Health MRCare Platinum plan, Specialized Dentistry (Bridgework or crowns, surgical extraction, orthodontic treatment for ages less than 18 years, and dentures subject to pre-authorization) is Covered up to ₦300,000 per annum.
+- Under the Leadway Health MRCare plan, Pathology (laboratory services) is Covered.
+- Under the Leadway Health MRCare Platinum plan, Pathology (laboratory services) is Covered.
+- Under the Leadway Health MRCare plan, Basic Radiology (black & white X rays & abdominal & pelvic ultrasonography) is Covered.
+- Under the Leadway Health MRCare Platinum plan, Basic Radiology (black & white X rays & abdominal & pelvic ultrasonography) is Covered.
+- Under the Leadway Health MRCare plan, Fertility Services (consultation & investigation only) covers Counseling, USS, SFA, HSG, Hormonal Assay, Hysteroscopy (up to 50,000).
+- Under the Leadway Health MRCare Platinum plan, Fertility Services (consultation & investigation only) covers Counseling, USS, SFA, HSG, Hormonal Assay, Hysteroscopy (up to 75,000).
+- Under the Leadway Health MRCare plan, Advanced Investigations (Echocardiogram, MRI, CT scan, Electrocardiogram, Spirometry, Electroencephalogram) is Covered up to ₦100,000 per annum.
+- Under the Leadway Health MRCare Platinum plan, Advanced Investigations (Echocardiogram, MRI, CT scan, Electrocardiogram, Spirometry, Electroencephalogram) is Covered up to ₦250,000 per annum.
+- Under the Leadway Health MRCare plan, Physiotherapy sessions is limited to 12 sessions per annum.
+- Under the Leadway Health MRCare Platinum plan, Physiotherapy sessions is limited to 24 sessions per annum.
+- Under the Leadway Health MRCare plan, External Medical Devices & Appliances (such as crutches, neck collars, etc.) is Covered inclusive of Wheelchairs.
+- Under the Leadway Health MRCare Platinum plan, External Medical Devices & Appliances (such as crutches, neck collars, etc.) is Covered inclusive of Wheelchairs.
+- Under the Leadway Health MRCare plan, Chronic Diseases consultations with Specialists is Unlimited.
+- Under the Leadway Health MRCare Platinum plan, Chronic Diseases consultations with Specialists is Unlimited.
+- Under the Leadway Health MRCare plan, Equipment for chronic conditions monitoring covers Glucometer and/or Sphygmomanometer.
+- Under the Leadway Health MRCare Platinum plan, Equipment for chronic conditions monitoring covers Glucometer and/or Sphygmomanometer.
+- Under the Leadway Health MRCare plan, Management of Chronic Conditions (Pharmacy Benefit) is covered up to ₦200,000 per annum.
+- Under the Leadway Health MRCare Platinum plan, Management of Chronic Conditions (Pharmacy Benefit) is covered up to ₦250,000 per annum.
+- Under the Leadway Health MRCare plan, Mortuary is covered up to a Limit of 0.2 million per annum.
+- Under the Leadway Health MRCare Platinum plan, Mortuary is covered up to a Limit of 0.2 million per annum.
+- Under the Leadway Health MRCare plan, Vaccination at home (in selected cities) is Covered.
+- Under the Leadway Health MRCare Platinum plan, Vaccination at home (in selected cities) is Covered.
+- Under the Leadway Health MRCare plan, Emergency Medical and Associated Expenses while traveling abroad is covered up to $10,000.
+- Under the Leadway Health MRCare Platinum plan, Emergency Medical and Associated Expenses while traveling abroad is covered up to $10,000.
+- Under the Leadway Health MRCare plan, Repatriation of remains in the event of death while traveling overseas is covered up to $1,500.
+- Under the Leadway Health MRCare Platinum plan, Repatriation of remains in the event of death while traveling overseas is covered up to $1,500.
+- Under the Leadway Health MRCare plan, Cover for emergency dental expenses abroad is covered up to $200.
+- Under the Leadway Health MRCare Platinum plan, Cover for emergency dental expenses abroad is covered up to $200.
+- Under the Leadway Health MRCare plan, Accommodation Cost related to Covid-19 quarantine if diagnosed with Covid-19 while abroad is covered Up to $90 per day (Max 14 days).
+- Under the Leadway Health MRCare Platinum plan, Accommodation Cost related to Covid-19 quarantine if diagnosed with Covid-19 while abroad is covered Up to $90 per day (Max 14 days).
+- Under the Leadway Health MRCare plan, Miscellaneous expenses on transport and accommodation in case of hospitalization lasting longer than 5 days is covered Up to $50 per day.
+- Under the Leadway Health MRCare Platinum plan, Miscellaneous expenses on transport and accommodation in case of hospitalization lasting longer than 5 days is covered Up to $50 per day.
+- Under the Leadway Health MRCare plan, Accommodation expenses of close relatives or traveling companion in case of hospitalization lasting longer than 48 hours is covered up to $40 per day per person (Max $400).
+- Under the Leadway Health MRCare Platinum plan, Accommodation expenses of close relatives or traveling companion in case of hospitalization lasting longer than 48 hours is covered up to $40 per day per person (Max $400).
+- Under the Leadway Health MRCare plan, Mental Health Assistance Programme (MHAP) is Covered.
+- Under the Leadway Health MRCare Platinum plan, Mental Health Assistance Programme (MHAP) is Covered.
